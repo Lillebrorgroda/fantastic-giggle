@@ -1,7 +1,8 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 
-import { App } from './App.jsx'
+import App from './App.jsx'
+import Pokemon from './Pokemon.jsx'
 
 import './index.css'
 
